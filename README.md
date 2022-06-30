@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivashishmca@gmail.com" />
   </a>
 - 📖 I am currently reading **Sapiens** by Yuval Noah Harari
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
+- 💬 Talk to me about Cricket,silicon valley & History
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 

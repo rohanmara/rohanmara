@@ -23,10 +23,11 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 <p align="left">
-      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="45" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="45" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="45" height="55"/>
 </p>
 
 **Databases**
@@ -34,5 +35,31 @@ These are some of the major technologies that I use or have worked on in the pas
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-
+      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Expressjs" width="55" height="55"/>
 </p>
+
+**Libraries and Frameworks**
+<p align="left">
+      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/d3js/d3js-icon.svg" alt="d3" width="45" height="55"/>
+</p>
+
+**Tools**
+<p align="left">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs"width="45" height="55"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
